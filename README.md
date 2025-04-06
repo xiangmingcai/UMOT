@@ -27,7 +27,7 @@ If you find it helpful, please remember to cite us in your work.
 
 <br>
 
-- author : Xiangming Cai; Sara Sarcia Garcia; Juan J. Garcia Vallejo
+- author : Xiangming Cai; Sara Garcia Garcia; Juan J. Garcia Vallejo
 
 - email : x.cai@amsterdamumc.nl
 
