@@ -20,7 +20,7 @@ The UMG could be very helpful for users to generate an unmixing matrix in ~ 30 m
 **The UMO is the core module of the UMOT toolkit.** In fact, both UMG and UIB are designed to support the use of UMO. The UMG is super-powerful and user-friendly in addressing most unmixinng issues. The algorithm of UMO will be released in our paper, which in ongoing...
 
 
-Note: UMOT is complete static, meaning everything you do with UMOT is 100% local.** No data is sent out, and we do not store any user information.
+Note: UMOT is complete static, meaning everything you do with UMOT is 100% local. No data will be sent out, and we do not store any user information.
 
 For the whole UMOT project, fcs files from Aurora and Xenith were tested and supported.
 
