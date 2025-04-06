@@ -19,3 +19,11 @@ The UMG could be very helpful for users to generate an unmixing matrix in ~ 30 m
 
 Although we provide BIU as an unmixing tool, browser environment is not really an ideal choice for such highly calculation intensive work. If you have big fcs file (>100 Mb), you could also do unmixing in [OMIQ](https://help.omiq.ai/hc/en-us/articles/28937155541908-Create-and-Apply-a-Spectral-Unmixing-Matrix) or [FCS Express](https://denovosoftware.com/full-access/features/spectral-unmixing/). 
 
+Note: UMOT is complete static, meaning everything you do with UMOT is 100% local.** No data is sent out, and we do not store any user information.
+
+If you find it helpful, please remember to cite us in your work. 
+
+author : Xiangming Cai
+email : x.cai@amsterdamumc.nl
+time : 2025/4/6
+version: v1.0
