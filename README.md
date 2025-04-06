@@ -22,6 +22,7 @@ The UMG could be very helpful for users to generate an unmixing matrix in ~ 30 m
 For the whole UMOT project, fcs files from Aurora and Xenith were tested and supported.💪💪💪
 
 If you find any bug, fell free to post in the [Issues](https://github.com/xiangmingcai/UMOT/issues)
+
 Note: UMOT is complete static, meaning everything you do with UMOT is 100% local. No data will be sent out, and we do not store any user information.
 
 
