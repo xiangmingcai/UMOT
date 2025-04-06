@@ -17,7 +17,7 @@ The UMOT includes 3 out-of-the-box webtools:
 
 The UMG could be very helpful for users to generate an unmixing matrix in ~ 30 mins to 1 hour, since most flow cytometers do not allow exporting unmixing matrix. 
 
-**The UMO is the core module of the UMOT toolkit.** In fact, both UMG and UIB are designed to support the use of UMO. The UMG is super-powerful💪 and user-friendly🥰 in addressing most unmixinng issues. The algorithm of UMO will be released in our paper, which in ongoing...
+**The UMO is the core module of the UMOT toolkit.** In fact, both UMG and UIB are designed to support the use of UMO. The UMG is super-powerful💪 and user-friendly🥰 in addressing most unmixinng issues😵. The algorithm of UMO will be released in our paper, which in ongoing...
 
 For the whole UMOT project, fcs files from Aurora and Xenith were tested and supported.🔓
 
