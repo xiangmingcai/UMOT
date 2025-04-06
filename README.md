@@ -39,5 +39,7 @@ Links to:
 
 [Core facility](https://vumc.nl/research/overzicht/molecular-cell-biology-immunology-research/mcbi-technology-center/o2flow-facility-mcbi.htm)
 
-
+<p align="center">
+  <img src="./images/logo-amsterdamumc.svg" />
+</p>
   
