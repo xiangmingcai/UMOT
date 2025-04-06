@@ -1,5 +1,5 @@
 # UMOT
-Unmixing Matrix Online web Toolkit for flow cytometry
+Unmixing Matrix Online web Toolkit for spectral flow cytometry
 
 <p align="center">
   <img src="./images/overview.jpg" />
