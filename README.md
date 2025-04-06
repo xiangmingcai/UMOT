@@ -17,7 +17,7 @@ The UMOT includes 3 out-of-the-box webtools:
 
 The UMG could be very helpful for users to generate an unmixing matrix in ~ 30 mins to 1 hour, since most flow cytometers do not allow exporting unmixing matrix. 
 
-**The UMO is the core module of the UMOT toolkit.** In fact, both UMG and UIB are designed to support the use of UMO. The UMG is both powerful and user-friendly in addressing most unmixinng issues. The algorithm of UMO will be released in our paper, which in ongoing...
+**The UMO is the core module of the UMOT toolkit.** In fact, both UMG and UIB are designed to support the use of UMO. The UMG is super-powerful and user-friendly in addressing most unmixinng issues. The algorithm of UMO will be released in our paper, which in ongoing...
 
 Although we provide BIU as an unmixing tool, browser environment is not really an ideal choice for such highly calculation intensive work. If you have big fcs file (>100 Mb), you could also do unmixing in [OMIQ](https://help.omiq.ai/hc/en-us/articles/28937155541908-Create-and-Apply-a-Spectral-Unmixing-Matrix) or [FCS Express](https://denovosoftware.com/full-access/features/spectral-unmixing/). 
 
