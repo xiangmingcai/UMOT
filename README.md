@@ -6,7 +6,7 @@ Unmixing Matrix Online web Toolkit for flow cytometry
 </p>
 
 
-Unmixing is a key step of spectral flow cytometry, and a unmixing matrix is the matrix containing signatures of fluors and autofluorescences. UMOT is developed to address the unmixing issues, which is caused by the mismatch between extracted signatures and "real" signatures in multi-color samples.
+Unmixing is a key step of spectral flow cytometry, and the unmixing matrix is a matrix containing signatures of fluors and autofluorescences. **The UMOT is developed to address the unmixing issues**, which is caused by the mismatch between extracted signatures and "real" signatures in multi-color samples.
 
 The UMOT includes 3 out-of-the-box webtools:
 1. [Unmixing Matrix Generator (UMG)](https://github.com/xiangmingcai/UnmixingMtxGenerator.github.io/tree/main): generate unmixing matrix from raw fcs files.
