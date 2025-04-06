@@ -21,6 +21,8 @@ Although we provide BIU as an unmixing tool, browser environment is not really a
 
 Note: UMOT is complete static, meaning everything you do with UMOT is 100% local.** No data is sent out, and we do not store any user information.
 
+For the whole UMOT, Fcs files from Aurora and Xenith were tested and supported.
+
 If you find it helpful, please remember to cite us in your work. 
 
 - author : Xiangming Cai; Sara Sarcia Garcia; Juan J. Garcia Vallejo
