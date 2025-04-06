@@ -23,10 +23,10 @@ Note: UMOT is complete static, meaning everything you do with UMOT is 100% local
 
 If you find it helpful, please remember to cite us in your work. 
 
-author : Xiangming Cai
+- author : Xiangming Cai
 
-email : x.cai@amsterdamumc.nl
+- email : x.cai@amsterdamumc.nl
 
-time : 2025/4/6
+- time : 2025/4/6
 
-version: v1.0
+- version: v1.0
