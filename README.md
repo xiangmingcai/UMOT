@@ -52,4 +52,4 @@ Links to:
   <img src="./images/logo-amsterdamumc.svg" width = 200  class="left-align" />
 </p>
   
-/
+
