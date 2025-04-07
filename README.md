@@ -32,7 +32,7 @@ Note: UMOT is complete static, meaning everything you do with UMOT is 100% local
 
 <br>
 
-- Author : Xiangming Cai; Sara Garcia Garcia; Juan J. Garcia Vallejo
+- Authors : Xiangming Cai; Sara Garcia Garcia; Juan J. Garcia Vallejo
 
 - Email : x.cai@amsterdamumc.nl
 
