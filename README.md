@@ -21,7 +21,7 @@ The UMG could be very helpful for users to generate an unmixing matrix in ~ 30 m
 
 In short, the UMOT assumes the selected "positive populaiton" and "negative population" are homogenious, and the only real difference between these two populations are the intensity of "positive fluor". The UMO will then use the unmixed incorrect difference at all other fluors to correct the signature of "positive fluor". The detail of the algorithm will be shown in our paper, which in ongoing...🥱
 
-For the whole UMOT project, fcs files from Aurora and Xenith were already tested and supported.🔓
+For the whole UMOT project, fcs files from Aurora and Xenith were already tested and supported.🔓 The fcs files from other spectral instruments should also work, as long as thr file follows a FCS 3.0/3.1 standard, which is probably the case.
 
 If you find any bug💔, you may post in the [Issues](https://github.com/xiangmingcai/UMOT/issues). Also, feel free to reach out to us with an e-mail if you need specific assistance or if you got any suggestions.
 
@@ -52,3 +52,4 @@ Links to:
   <img src="./images/logo-amsterdamumc.svg" width = 200  class="left-align" />
 </p>
   
+/
