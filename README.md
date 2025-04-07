@@ -17,7 +17,7 @@ The UMOT includes 3 out-of-the-box webtools:
 
 The UMG could be very helpful for users to generate an unmixing matrix in ~ 30 mins to 1 hour, since most flow cytometers do not allow exporting unmixing matrix. 
 
-**The UMO is the core module of the UMOT toolkit.** In fact, both UMG and UIB are designed to support the use of UMO. The UMG is super-powerful💪 and user-friendly🥰 in addressing most unmixinng issues😵. The algorithm of UMO will be released in our paper, which in ongoing...🥱
+**The UMO is the core module of the UMOT toolkit.** In fact, both UMG and UIB are designed to support the use of UMO. The UMG is super-powerful💪 and user-friendly🥰 in addressing most unmixinng issues😵. In short, the UMOT will assume the selected "positive populaiton" and "negative population" are homogenious, and the only real difference between these two populations are the intensity of "positive fluor". The UMO will then use the unmixed incorrect difference at all other fluors to correct the signature of "positive fluor". The detail of the algorithm will be shown in our paper, which in ongoing...🥱
 
 For the whole UMOT project, fcs files from Aurora and Xenith were already tested and supported.🔓
 
@@ -26,7 +26,7 @@ If you find any bug💔, fell free to post in the [Issues](https://github.com/xi
 Note: UMOT is complete static, meaning everything you do with UMOT is 100% local. No data will be sent out, and we do not store any user information.
 
 
-📝If you find it helpful, please remember to cite us in your work. 
+📝If you find it helpful, please remember to give us a star⭐ and cite us in your work. 
 
 <br>
 
