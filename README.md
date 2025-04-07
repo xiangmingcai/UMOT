@@ -23,7 +23,7 @@ In short, the UMOT assumes the selected "positive populaiton" and "negative popu
 
 For the whole UMOT project, fcs files from Aurora and Xenith were already tested and supported.🔓
 
-If you find any bug💔, fell free to post in the [Issues](https://github.com/xiangmingcai/UMOT/issues).
+If you find any bug💔, you may post in the [Issues](https://github.com/xiangmingcai/UMOT/issues). Also, feel free to reach out to us with an e-mail if you need specific assistance or if you got any suggestions.
 
 Note: UMOT is complete static, meaning everything you do with UMOT is 100% local. No data will be sent out, and we do not store any user information.
 
