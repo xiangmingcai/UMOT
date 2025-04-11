@@ -23,7 +23,7 @@ We provide two options (UMG and UMR) for generating/recover the unmixing matrix,
 
 >The UMR could help users recover the unmixing matrix with few click in less then 1 min. It is much faster than the UMG. However, it is less accurate, because of the rounded number in the fcs file. Detailed comparison could be found in the [instruction document](https://github.com/xiangmingcai/UnmixingMtxRecover.github.io/blob/main/instruction.md) of UMR.
 
-**The UMO is the core module of the UMOT toolkit.** In fact, both UMG and UIB are designed to support the use of UMO. The UMG is super-powerful💪 and user-friendly🥰 in addressing most unmixinng issues😵. 
+**The UMO is the core module of the UMOT toolkit.** In fact, both UMG, UMR and UIB are developed to support the use of UMO. The UMG is super-powerful💪 and user-friendly🥰 in addressing most unmixinng issues😵. 
 
 In short, the UMOT assumes the selected "positive populaiton" and "negative population" are homogenious, and the only real difference between these two populations are the intensity of "positive fluor". The UMO will then use the unmixed incorrect difference at all other fluors to correct the signature of "positive fluor". The detail of the algorithm will be shown in our paper, which in ongoing...🥱
 
