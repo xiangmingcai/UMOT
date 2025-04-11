@@ -1,5 +1,5 @@
 # UMOT
-Unmixing Matrix Online web Toolkit for spectral flow cytometry
+Unmixing Matrix Online web Toolkit for spectral flow cytometry (v1.0)
 
 <p align="center">
   <img src="./images/overview.jpg" />
@@ -48,9 +48,6 @@ Note: UMOT is complete static, meaning everything you do with UMOT is 100% local
 
 - Email : x.cai@amsterdamumc.nl
 
-- Update time : 2025/4/6
-
-- Version: v1.0
 
 Links to: 
 
