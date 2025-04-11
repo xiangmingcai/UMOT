@@ -8,14 +8,20 @@ Unmixing Matrix Online web Toolkit for spectral flow cytometry
 
 Unmixing is a key step of spectral flow cytometry, and the unmixing matrix is a matrix containing signatures of fluors and autofluorescences. **The UMOT is developed to address the unmixing issues**, which is caused by the mismatch between extracted signatures and "real" signatures in multi-color samples.
 
-The UMOT includes 3 out-of-the-box webtools:
+The UMOT includes 4 out-of-the-box webtools:
   1. [Unmixing Matrix Generator (UMG)](https://github.com/xiangmingcai/UnmixingMtxGenerator.github.io/tree/main): generate unmixing matrix from raw fcs files.
 
-2. **[Unmixing Matrix Optimizer (UMO)](https://github.com/xiangmingcai/UnmixingMtxOptimizer.github.io): correct unmixing matrix to address unmixing issues.** 🚀🚀🚀
+  2. [Unmixing Matrix Recover (UMR)](https://github.com/xiangmingcai/UnmixingMtxRecover.github.io/tree/main): recover unmixing matrix from multicolor sample fcs file in few clicks.
 
-  3. [Unmixing In Batch (UIB)](https://github.com/xiangmingcai/UnmixingInBatch.github.io): do unmixing on raw fcs files to obtain unmixed fcs files in batch.
+  3. **[Unmixing Matrix Optimizer (UMO)](https://github.com/xiangmingcai/UnmixingMtxOptimizer.github.io): correct unmixing matrix to address unmixing issues.** 🚀🚀🚀
 
-The UMG could be very helpful for users to generate an unmixing matrix in ~ 30 mins to 1 hour, since most flow cytometers do not allow exporting unmixing matrix. 
+  4. [Unmixing In Batch (UIB)](https://github.com/xiangmingcai/UnmixingInBatch.github.io): do unmixing on raw fcs files to obtain unmixed fcs files in batch.
+
+We provide two options (UMG and UMR) for generating/recover the unmixing matrix, since most flow cytometers do not allow exporting unmixing matrix. 
+
+>The UMG could guide users to generate an unmixing matrix in ~ 30 mins to 1 hour, this approach is the same as you have in the cytometer's software. 
+
+>The UMR could help users recover the unmixing matrix with few click in less then 1 min. It is much faster than the UMG. However, it is less accurate, because of the rounded number in the fcs file. Detailed comparison could be found in the [instruction document](https://github.com/xiangmingcai/UnmixingMtxRecover.github.io/blob/main/instruction.md) of UMR.
 
 **The UMO is the core module of the UMOT toolkit.** In fact, both UMG and UIB are designed to support the use of UMO. The UMG is super-powerful💪 and user-friendly🥰 in addressing most unmixinng issues😵. 
 
@@ -27,8 +33,15 @@ If you find any bug💔, you may post in the [Issues](https://github.com/xiangmi
 
 Note: UMOT is complete static, meaning everything you do with UMOT is 100% local. No data will be sent out, and we do not store any user information.
 
+# Update log
+
+- 2025-04-11  Release of Unmixing Matrix Recover (UMR) v1.0
+
+
+# Citation and Support
 
 📝If you find it helpful, please remember to give us a star⭐ and cite us in your work. 
+
 
 <br>
 
