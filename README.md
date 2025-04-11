@@ -43,7 +43,6 @@ Note: UMOT is complete static, meaning everything you do with UMOT is 100% local
 📝If you find it helpful, please remember to give us a star⭐ and cite us in your work. 
 
 
-<br>
 
 - Authors : Xiangming Cai; Sara Garcia Garcia; Juan J. Garcia Vallejo
 
